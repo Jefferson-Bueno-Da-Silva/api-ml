@@ -9,7 +9,7 @@ url: https://api-mercado-livre.herokuapp.com
 
 #### STARTING REPOSITORIES
 ```
-git clone https://github.com/MGSP-desenvolvimento/Api_ML
+git clone https://github.com/Jefferson-Bueno-Da-Silva/api-ml
 ```
 #### NODE MODULES
 ```
