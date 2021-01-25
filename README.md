@@ -1,2 +1,0 @@
-# API MERCADO LIVRE
-
