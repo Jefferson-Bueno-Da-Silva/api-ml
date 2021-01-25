@@ -1,8 +1,5 @@
 # API MERCADO LIVRE
 
-## previw in:
-url: https://api-mercado-livre.herokuapp.com
-
 ## HOW TO USE:
 
 ### DEVELOPMENT ENVIRONMENT:
