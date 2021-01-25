@@ -2,14 +2,14 @@
   "name": "mercadolivreapi",
   "version": "1.0.0",
   "description": "Fornecer as informações necessárias para conexão com ML",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MGSP-desenvolvimento/Api_ML.git"
+    "url": "git+https://github.com/Jefferson-Bueno-Da-Silva/api-ml.git"
   },
   "keywords": [
     "mercado Livre",
@@ -18,11 +18,11 @@
     "api meli"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MGSP-desenvolvimento/Api_ML/issues"
+    "url": "https://github.com/Jefferson-Bueno-Da-Silva/api-ml/issues"
   },
-  "homepage": "https://github.com/MGSP-desenvolvimento/Api_ML#readme",
+  "homepage": "https://github.com/Jefferson-Bueno-Da-Silva/api-ml#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
